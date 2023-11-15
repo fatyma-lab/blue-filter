@@ -1,0 +1,59 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blue Filter - Denim Design Consultant</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #1a1a1a;
+            color: #ffffff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        h1 {
+            color: #1a1a1a;
+        }
+
+        p {
+            color: #555555;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Blue Filter</h1>
+        <p>Denim Design Consultant and Trend Forecaster</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! I'm Blue Filter, a denim design consultant and trend forecaster. With a passion for denim, I specialize in providing insights into denim design trends and color forecasting. My expertise lies in...</p>
+    </section>
+
+    <section>
+        <h2>Contact Information</h2>
+        <p>Email: your.email@example.com</p>
+    </section>
+
+</body>
+</html>
